@@ -41,6 +41,6 @@
    <ol><li>Deixar opiniões</li></ol>
    <ol><li>Dar notas</li></ol>
    <ol><li>Checkin no estabelecimento</li></ol>
-   <ol><li>Fotos do esbelecimento</li></ol>
+   <ol><li>Fotos do estabelecimento</li></ol>
    <li>E MUITO MAIS!</li>
 </ol>
